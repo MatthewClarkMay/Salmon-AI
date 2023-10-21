@@ -2,6 +2,8 @@
 
 **Seattle, WA** - In a groundbreaking move that is set to redefine recreational fishing, Seattle-based startup "NeptonicAI" has unveiled its state-of-the-art, AI-guided salmon fishing tours, promising an unparalleled fishing experience for enthusiasts and novices alike.
 
+![boat-1](https://github.com/matthewclarkmay/salmon-ai/IMG-3820.webp)
+
 The brainchild of a group of tech innovators and fishing aficionados, NeptonicAI's fishing tours leverage cutting-edge artificial intelligence technology to analyze vast amounts of data from various sources like weather patterns, water temperature, and historical salmon movement. This ensures fishermen are always at the right place at the right time.
 
 The boats, aptly named the "AI Ocean Master" series, are equipped with high-tech sensors, cameras, and satellite dishes. These boats can detect the presence of salmon in real-time, using underwater cameras trained with machine learning algorithms to recognize the shape, size, and movement patterns of salmon.
